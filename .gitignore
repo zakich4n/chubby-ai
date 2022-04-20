@@ -1,0 +1,10 @@
+*.h5
+*.csv
+*.zip
+*.pdf
+*.docx
+
+Test/
+Training/
+Validation/
+img_align_celeba/
